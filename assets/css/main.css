@@ -1253,9 +1253,6 @@ input, select, textarea {
 				height: calc(3.5rem + 1px);
 				background: #36454F; 
 			}
-			#header nav:before {
-    			display: none !important;
-			}
 
 		#header > :first-child {
 			margin-top: 0;
@@ -1266,9 +1263,9 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;        
-			height: 5.5rem;       
-			line-height: 5.5rem;  
+			width: 4rem;        
+			height: 4rem;       
+			line-height: 4rem;  
 			border: solid 1px #36454F; 
 			border-radius: 100%;
 		}
@@ -1425,9 +1422,9 @@ input, select, textarea {
 				}
 
 			#header .logo {
-				width: 4.75rem;        
-				height: 4.75rem;       
-				line-height: 4.75rem;  
+				width: 3.5rem;        
+				height: 3.5rem;       
+				line-height: 3.5rem;  
 			}
 
 				#header .logo .icon:before {
