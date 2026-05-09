@@ -1253,6 +1253,9 @@ input, select, textarea {
 				height: calc(3.5rem + 1px);
 				background: #36454F; 
 			}
+			#header nav:before {
+    			display: none !important;
+			}
 
 		#header > :first-child {
 			margin-top: 0;
