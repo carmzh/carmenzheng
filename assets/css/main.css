@@ -1364,6 +1364,10 @@ input, select, textarea {
 			background: #36454F; 
 		}
 
+		#header nav:after {
+    		display: none !important;
+		}
+
 		#header nav.use-middle ul li.is-middle {
 			border-left: 0;
 		}
